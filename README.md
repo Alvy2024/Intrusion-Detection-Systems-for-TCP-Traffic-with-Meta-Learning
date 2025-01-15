@@ -15,7 +15,7 @@ This repository provides a meta-learning-based framework for network intrusion d
    For each dataset, execute the following steps in order:
    - **data_split**: Run the script to split the dataset.
    - **data_preprocessing**: Run the notebook to preprocess the data.
-   - **{models}.ipynb**: Train the meta-learning model using the jupyter notebook.
+   - **{models}.ipynb**: Train models using the jupyter notebook.
 
 ---
 
